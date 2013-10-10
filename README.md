@@ -4,9 +4,10 @@ bookpushing
 A simple book searching and pushing engine <br/>
 Search the local resource(books) on server and push them to kindle
 
-Installation
-------------
+Setting
+-------
 The books path can be defined in common.inc
+The account name and password of gmail that used by sendmail.py, should be defined in sendmail.py
 
 Environment Required
 ---------------------
@@ -17,4 +18,4 @@ Environment Required
 
 About
 -----
-Actually this engine is too simple that you can not call it a 'engine', but it indeed solved my problem :)
+Actually this BS is too simple that you can not call it a 'engine', but it indeed solved my problem :)
