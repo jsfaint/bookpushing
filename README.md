@@ -11,7 +11,7 @@ The account name and password of gmail that used by sendmail.py, should be defin
 
 Environment Required
 ---------------------
-* python3.x
+* python3.x (sendmail.py) or python2.7 (sendmail_py27.py)
 * php5.x
 * lighttpd or apache
 * fastcgi
