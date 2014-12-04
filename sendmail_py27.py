@@ -15,8 +15,8 @@ def sendmail(mail_to, data, filename):
     mail_host = "smtp.gmail.com"
     mail_port = "465"
     mail_from = "kindlepushing@gmail.com"
-    mail_username = "kindlepushing"
-    mail_password = "fA8WeIqrPN"
+    mail_username = ""
+    mail_password = ""
 
     if not mail_to:
         raise Exception("receiver is empty")
